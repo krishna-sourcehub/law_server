@@ -5,7 +5,7 @@
 # # model_download()
 
 # # Initialize the Llama model with chat format set to "llama-2"
-# llm = Llama(model_path="E:\langchain-chat-gui-main\langchain-chat-gui-main\model-unsloth.Q8_0.gguf", chat_format="llama-2")
+# llm = Llama(model_path="./path_to_cache_directory/models--TheBloke--Llama-2-7B-Chat-GGUF/snapshots/191239b3e26b2882fb562ffccdd1cf0f65402adb/llama-2-7b-chat.Q2_K.gguf", chat_format="llama-2")
 
 # # Define the system prompt
 # system_prompt = (
